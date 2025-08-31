@@ -263,7 +263,7 @@ func main() {
 	// fmt.Println("nums = [0,0,1,1,1,2,2,3,3,4] 移除重复元素后为：", removeDuplicates([]int{0, 0, 1, 1, 1, 2, 2, 3, 3, 4}))
 
 	// 合并区间
-	fmt.Println("intervals = [[1,3],[2,6],[8,10],[15,18]] 合并重叠区间后：", mergeArea([][]int{{1, 3}, {2, 6}, {8, 10}, {15, 18}}))
+	//fmt.Println("intervals = [[1,3],[2,6],[8,10],[15,18]] 合并重叠区间后：", mergeArea([][]int{{1, 3}, {2, 6}, {8, 10}, {15, 18}}))
 
 	// 寻找传入数组与目标值 重复的两个值的前两个下标
 	//fmt.Println("nums = [3，2，5] ,target = 8，最终找到的target对应的两个下标分别为：", matchNumber([]int{3, 2, 5}, 8))
