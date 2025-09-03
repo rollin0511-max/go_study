@@ -1,4 +1,4 @@
-package dbpractice
+package practice01
 
 import (
 	"database/sql"

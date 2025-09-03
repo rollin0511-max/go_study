@@ -1,4 +1,4 @@
-module study
+module gorm
 
 go 1.25.0
 

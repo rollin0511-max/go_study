@@ -3,7 +3,7 @@ package main
 import (
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"
-	"study/gorm/dbpractice"
+	"gorm/practice01"
 )
 
 func main() {
@@ -13,6 +13,6 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
-	dbpractice.Run(db)
+	practice01.Run(db)
 
 }
