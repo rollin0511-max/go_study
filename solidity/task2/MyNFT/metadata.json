@@ -1,0 +1,19 @@
+{
+  "name": "Exchange Rate NFT",
+  "description": "一个交易所汇率 NFT，生活在以太坊测试网上。",
+  "image": "ipfs://bafybeigslth3ytc5vlurhmwxpfhrqo7676aa73znlypvhzim5gpfmrbypi",
+  "attributes": [
+    {
+      "trait_type": "支持",
+      "value": "USDT, ETH, BTC"
+    },
+    {
+      "trait_type": "更新频率",
+      "value": "10秒"
+    },
+    {
+      "trait_type": "汇率",
+      "value": "实时交易汇率"
+    }
+  ]
+}

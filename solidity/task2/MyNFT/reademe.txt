@@ -1,0 +1,9 @@
+使用Pinata在线上传图片和json文件【IPFS】
+
+图片：
+ipfs://bafybeigslth3ytc5vlurhmwxpfhrqo7676aa73znlypvhzim5gpfmrbypi
+https://apricot-keen-bovid-397.mypinata.cloud/ipfs/bafybeigslth3ytc5vlurhmwxpfhrqo7676aa73znlypvhzim5gpfmrbypi
+
+json:
+ipfs://bafkreiatsemnqywnvjltilipg2fns4t6sglb6hyt3hyjsjognqbv5bmvdm
+https://apricot-keen-bovid-397.mypinata.cloud/ipfs/bafkreiatsemnqywnvjltilipg2fns4t6sglb6hyt3hyjsjognqbv5bmvdm
