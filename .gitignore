@@ -22,7 +22,7 @@ vendor/
 go.work
 go.work.sum
 
-# env file
+# .env file
 .env
 
 # Editor/IDE
